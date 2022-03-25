@@ -352,7 +352,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praveen Saini](https://praveen-me.github.io)
 - [Priya Nayak](https://priya180975.github.io/portfolio/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
-- [prathamprasoon.](https://www.prathamprasoon.com/)
+- [Pratham Prasoon.](https://www.prathamprasoon.com/)
 
 ## Q
 
