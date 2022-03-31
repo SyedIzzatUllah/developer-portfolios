@@ -267,6 +267,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## M
 
 - [Madhan K](https://madhank93.github.io/)
+- [Matt Farley] (https://mattfarley.ca/)
 - [Mads Hougesen](https://mhouge.dk/)
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Maram Sai Harsha Vardhan Reddy](https://maramsaiharsha.netlify.com)
