@@ -124,6 +124,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## D
 
 - [Dale French](https://dalefrench.dev/)
+- [Dejan Markovic](https://www.dejan.works/)
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app/)
 - [Daniel Alberski](https://danielalberski.redark.pl/)
@@ -267,7 +268,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## M
 
 - [Madhan K](https://madhank93.github.io/)
-- [Matt Farley] (https://mattfarley.ca/)
+- [Matt Farley](https://mattfarley.ca/)
 - [Mads Hougesen](https://mhouge.dk/)
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Maram Sai Harsha Vardhan Reddy](https://maramsaiharsha.netlify.com)
